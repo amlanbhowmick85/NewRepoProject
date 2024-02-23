@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: NewRepoProject
+  gitServerName: CTRL909
+  gitUrl: https://github.com/amlanbhowmick85/NewRepoProject
+  gitUsername: amlanbhowmick85
+  gitBranch: main
